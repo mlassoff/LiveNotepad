@@ -7,6 +7,14 @@
   background: beige;
   border-radius: 6px;
 }
+.note {
+background: gray;
+color: black;
+border-radius: 6px;
+padding: 5px;
+margin-bottom: 10px;
+}
+
 button {
   width: 100%;
   background: beige;
